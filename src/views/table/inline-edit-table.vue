@@ -104,6 +104,8 @@ export default {
   },
   created() {
     this.getList()
+
+    let qq = 1311
   },
   methods: {
     async getList() {
