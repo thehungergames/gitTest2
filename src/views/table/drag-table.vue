@@ -94,8 +94,8 @@ export default {
   created() {
     this.getList()
 
-    let aa = 11
-    let bb = 33
+    let cc = 22
+    let dd = 44
   },
   methods: {
     async getList() {
