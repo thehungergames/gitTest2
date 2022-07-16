@@ -93,6 +93,9 @@ export default {
   },
   created() {
     this.getList()
+
+    let aa = 11
+    let bb = 33
   },
   methods: {
     async getList() {
